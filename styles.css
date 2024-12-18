@@ -1,43 +1,43 @@
 @charset "UTF-8";
 @font-face {
   font-family: "San Francisco Pro Text";
-  src: url("../курсач кяр/fonts/San Francisco Pro Text/SFProText-Bold.ttf") format("truetype");
+  src: url("./fonts/San Francisco Pro Text/SFProText-Bold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url("../курсач кяр/fonts/Montserrat/static/Montserrat-Bold.ttf") format("truetype");
+  src: url("./fonts/Montserrat/static/Montserrat-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "RoadRadio";
-  src: url("../курсач кяр/fonts/294-font.otf") format("truetype");
+  src: url("./fonts/294-font.otf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Manrope";
-  src: url("../курсач кяр/fonts/Manrope/static/Manrope-Regular.ttf") format("truetype");
+  src: url("./fonts/Manrope/static/Manrope-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url("../курсач кяр/fonts/Montserrat/static/Montserrat-Regular.ttf") format("truetype");
+  src: url("./fonts/Montserrat/static/Montserrat-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url("../курсач кяр/fonts/Montserrat/static/Montserrat-Light.ttf") format("truetype");
+  src: url("./fonts/Montserrat/static/Montserrat-Light.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
   font-family: "Manrope";
-  src: url("../курсач кяр/fonts/Manrope/Manrope-Light.ttf") format("truetype");
+  src: url("./fonts/Manrope/Manrope-Light.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
@@ -268,7 +268,7 @@ body {
 }
 
 .hero {
-  background-image: url("../курсач кяр/image/image 1.png");
+  background-image: url("./image/image 1.png");
   padding: 233px 0;
 }
 
@@ -690,7 +690,7 @@ h6 {
 }
 
 .background-section {
-  background: url("../курсач кяр/image/fon.png") no-repeat center center/cover;
+  background: url("./image/fon.png") no-repeat center center/cover;
   padding-top: 140px;
   padding-left: 250px;
 }
@@ -2661,7 +2661,7 @@ h6 {
     font-size: 1.1vw;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
     padding: 22.754vw 0;
   }
   .hero-content {
@@ -3035,7 +3035,7 @@ h6 {
     font-size: 1.1vw;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
     padding: 22.754vw 0;
   }
   .hero-content {
@@ -3322,7 +3322,7 @@ h6 {
     font-size: 1.1vw;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
     padding: 22.754vw 0;
   }
   .hero-content {
@@ -3614,7 +3614,7 @@ h6 {
     display: none;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
     padding: 22.754vw 0;
   }
   .hero-content {
@@ -3856,7 +3856,7 @@ h6 {
     display: none;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
   }
   .hero-content h1 {
     font-size: 1.4em;
@@ -4040,7 +4040,7 @@ h6 {
     display: none;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
   }
   .hero-content h1 {
     font-size: 1.4em;
@@ -4222,7 +4222,7 @@ h6 {
     display: none;
   }
   .hero {
-    background-image: url("../курсач кяр/image/image 1.png");
+    background-image: url("./image/image 1.png");
   }
   .hero-content h1 {
     font-size: 1.2em;
